@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/pessoa-com-vista-superior-escrevendo-no-laptop-com-espaco-de-copia_23-2148708035.jpg?w=996&t=st=1675721889~exp=1675722489~hmac=4b6bfcda162e0660324ddb411c21bd8cd269795f00b664827276895c22da6727);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#inicio {
+    position: fixed;
+    right: 1px;
+    left: 1px;
+}
+
+#menu {
+    list-style: none;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+#menu li {
+    display: inline;
+    padding: 20px;
+
+}
+
+#menu li a {
+    background-color: aliceblue;
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+button {
+    border-radius: 50em;
+    background-color: black;
+    color: aliceblue;
+    font-size: small;
+    padding: 10px;
+}
+
+#primeiro {
+    font-family: sans-serif;
+    padding-top: 20px;
+    text-align: center;
+    padding-top: 110px;
+}
+
+h1 {
+    font-family: sans-serif;
+    padding-top: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: center;
+}
